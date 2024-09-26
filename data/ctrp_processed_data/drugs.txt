@@ -1,0 +1,545 @@
+0	CIL55	probe
+1	BRD4132	probe
+2	BRD6340	probe
+3	ML006	probe
+4	Bax channel blocker	probe
+5	BRD9876	probe
+6	tretinoin	FDA
+7	betulinic acid	probe
+8	phloretin	probe
+9	thalidomide	FDA
+10	gossypol	clinical
+11	chlorambucil	FDA
+12	fluorouracil	FDA
+13	isoliquiritigenin	probe
+14	cimetidine	FDA
+15	azacitidine	FDA
+16	trifluoperazine	FDA
+17	paclitaxel	FDA
+18	tamoxifen	FDA
+19	carboplatin	FDA
+20	teniposide	FDA
+21	sildenafil	FDA
+22	simvastatin	FDA
+23	parbendazole	probe
+24	procarbazine	FDA
+25	curcumin	clinical
+26	ciclopirox	FDA
+27	epigallocatechin-3-monogallate	probe
+28	myricetin	probe
+29	methotrexate	FDA
+30	lovastatin	FDA
+31	valdecoxib	FDA
+32	cyclophosphamide	FDA
+33	dacarbazine	FDA
+34	niclosamide	FDA
+35	prochlorperazine	FDA
+36	ifosfamide	FDA
+37	doxorubicin	FDA
+38	ouabain	probe
+39	BRD9647	probe
+40	piperlongumine	probe
+41	BRD-K26531177	probe
+42	NSC23766	probe
+43	pyrazolanthrone	probe
+44	C6-ceramide	probe
+45	topotecan	FDA
+46	N9-isopropylolomoucine	probe
+47	importazole	probe
+48	etoposide	FDA
+49	PRIMA-1	probe
+50	tanespimycin	clinical
+51	blebbistatin	probe
+52	cytochalasin B	probe
+53	NSC95397	probe
+54	manumycin A	probe
+55	mitomycin	FDA
+56	tacrolimus	FDA
+57	pifithrin-alpha	probe
+58	SB-431542	probe
+59	staurosporine	probe
+60	SB-225002	probe
+61	PD 153035	probe
+62	cerulenin	probe
+63	purmorphamine	probe
+64	GSK-3 inhibitor IX	probe
+65	dasatinib	FDA
+66	gefitinib	FDA
+67	erlotinib	FDA
+68	BRD-K94991378	probe
+69	BIX-01294	probe
+70	tacedinaline	probe
+71	LBH-589	clinical
+72	IC-87114	probe
+73	ciclosporin	FDA
+74	vorinostat	FDA
+75	sirolimus	FDA
+76	KU-55933	probe
+77	sitagliptin	FDA
+78	AM-580	probe
+79	PDMP	probe
+80	BRD-K71935468	probe
+81	MG-132	probe
+82	entinostat	clinical
+83	belinostat	clinical
+84	BEC	probe
+85	apicidin	probe
+86	Merck60	probe
+87	BRD-A94377914	probe
+88	FGIN-1-27	probe
+89	compound 1B	probe
+90	vincristine	FDA
+91	cytarabine hydrochloride	FDA
+92	itraconazole	FDA
+93	erastin	probe
+94	ML031	probe
+95	CIL56	probe
+96	FQI-1	probe
+97	BRD-K92856060	probe
+98	B02	probe
+99	BRD-K45681478	probe
+100	ML050	probe
+101	ML162	probe
+102	CIL41	probe
+103	NSC30930	probe
+104	CIL70	probe
+105	MI-1	probe
+106	DBeQ	probe
+107	Mdivi-1	probe
+108	ML083	probe
+109	CID-5951923	probe
+110	IU1	probe
+111	dexamethasone	FDA
+112	ML311	probe
+113	VX-680	clinical
+114	imatinib	FDA
+115	O-6-benzylguanine	clinical
+116	decitabine	FDA
+117	CHIR-99021	probe
+118	BI-2536	clinical
+119	BRD-K61166597	probe
+120	axitinib	FDA
+121	selumetinib	clinical
+122	NVP-BEZ235	clinical
+123	GW-843682X	probe
+124	vandetanib	FDA
+125	sorafenib	FDA
+126	ML029	probe
+127	temozolomide	FDA
+128	QW-BI-011	probe
+129	BRD-K90370028	probe
+130	SNX-2112	probe
+131	navitoclax	clinical
+132	bexarotene	FDA
+133	nilotinib	FDA
+134	sunitinib	FDA
+135	bendamustine	FDA
+136	omacetaxine mepesuccinate	FDA
+137	CD-437	probe
+138	SCH-79797	probe
+139	LE-135	probe
+140	SKI-II	probe
+141	CI-976	probe
+142	Platin	FDA
+143	necrostatin-1	probe
+144	GW-405833	probe
+145	AC55649	probe
+146	RITA	probe
+147	LY-2183240	probe
+148	Ki8751	probe
+149	CD-1530	probe
+150	TPCA-1	probe
+151	oxaliplatin	FDA
+152	NSC632839	probe
+153	pifithrin-mu	probe
+154	SN-38	probe
+155	BRD-K80183349	probe
+156	BRD-K66532283	probe
+157	MK-2206	clinical
+158	triazolothiadiazine	probe
+159	BRD-K66453893	GE-active
+160	BRD-K11533227	probe
+161	BRD-K27224038	GE-active
+162	BRD-K33514849	probe
+163	BRD-K14844214	GE-active
+164	BRD1835	probe
+165	BRD-K41597374	GE-active
+166	BRD-K63431240	probe
+167	BRD-K13999467	GE-active
+168	BRD-K96970199	GE-active
+169	brefeldin A	probe
+170	AGK-2	probe
+171	L-685458	probe
+172	PF-750	probe
+173	triptolide	clinical
+174	nutlin-3	clinical
+175	AA-COCF3	probe
+176	16-beta-bromoandrosterone	probe
+177	PRL-3 inhibitor I	probe
+178	SID 26681509	probe
+179	neuronal differentiation inducer III	probe
+180	NSC 74859	probe
+181	bortezomib	FDA
+182	ABT-737	clinical
+183	zebularine	probe
+184	PI-103	probe
+185	tubastatin A	probe
+186	SR-II-138A	probe
+187	neopeltolide	probe
+188	parthenolide	probe
+189	Compound 7d-cis	probe
+190	TG-101348	clinical
+191	pevonedistat	clinical
+192	AZD7545	probe
+193	VER-155008	probe
+194	ML203	probe
+195	SRT-1720	probe
+196	CAY10594	probe
+197	Compound 1541A	probe
+198	RG-108	probe
+199	PAC-1	probe
+200	pluripotin	probe
+201	GMX-1778	clinical
+202	avrainvillamide	probe
+203	BMS-536924	probe
+204	gemcitabine	FDA
+205	MST-312	probe
+206	olaparib	clinical
+207	oligomycin A	probe
+208	indisulam	clinical
+209	BRD-K49290616	GE-active
+210	BRD-K02492147	GE-active
+211	austocystin D	probe
+212	SJ-172550	probe
+213	BRD-K09587429	GE-active
+214	pandacostat	probe
+215	BRD-K96431673	GE-active
+216	cyanoquinoline 11	clinical
+217	tipifarnib-P2	probe
+218	tipifarnib-P1	clinical
+219	Compound 23 citrate	probe
+220	nakiterpiosin	probe
+221	CCT036477	probe
+222	tamatinib	clinical
+223	myriocin	probe
+224	YM-155	clinical
+225	BMS-754807	probe
+226	BIBR-1532	probe
+227	tosedostat	clinical
+228	neratinib	clinical
+229	BRD1812	probe
+230	BRD8958	probe
+231	serdemetan	clinical
+232	daporinad	clinical
+233	MK-1775	clinical
+234	tivozanib	clinical
+235	Ko-143	probe
+236	CR-1-31B	probe
+237	BRD-K71781559	probe
+238	BRD-K86535717	GE-active
+239	BRD-K48334597	GE-active
+240	ML312	probe
+241	BRD-K04800985	GE-active
+242	BRD-K78574327	GE-active
+243	BRD-K19103580	GE-active
+244	BRD-K30019337	GE-active
+245	BRD-K84807411	GE-active
+246	BRD-K01737880	probe
+247	BRD-K44224150	GE-active
+248	BRD-K75293299	GE-active
+249	BRD-K64610608	probe
+250	BRD-K09344309	probe
+251	BRD-K02251932	GE-active
+252	BRD-K55116708	probe
+253	BRD-K41334119	GE-active
+254	BRD-K34485477	GE-active
+255	BRD-K16147474	GE-active
+256	BRD-K29086754	GE-active
+257	BRD-K33199242	GE-active
+258	BRD-K52037352	GE-active
+259	BRD-K27986637	probe
+260	BRD-K37390332	GE-active
+261	tandutinib	clinical
+262	fulvestrant	FDA
+263	bafilomycin A1	probe
+264	isonicotinohydroxamic acid	probe
+265	HLI 373	probe
+266	NSC19630	probe
+267	NSC48300	probe
+268	PRIMA-1-Met	probe
+269	isoevodiamine	probe
+270	UNC0638	probe
+271	cucurbitacin I	probe
+272	BRD-K50799972	GE-active
+273	BRD-K17060750	GE-active
+274	barasertib	clinical
+275	linifanib	clinical
+276	veliparib	clinical
+277	saracatinib	clinical
+278	afatinib	clinical
+279	cediranib	clinical
+280	canertinib	clinical
+281	obatoclax	clinical
+282	masitinib	clinical
+283	ZSTK474	clinical
+284	brivanib	clinical
+285	GDC-0879	probe
+286	NVP-TAE684	probe
+287	SNS-032	clinical
+288	PLX-4720	probe
+289	TGX-221	probe
+290	KU-0063794	probe
+291	TG-100-115	clinical
+292	GSK1059615	clinical
+293	SU11274	probe
+294	BRD-K88742110	probe
+295	LRRK2-IN-1	probe
+296	BRD8899	probe
+297	EX-527	clinical
+298	ELCPK	probe
+299	NPC-26	probe
+300	1S,3R-RSL-3	probe
+301	CIL55A	probe
+302	SCH-529074	probe
+303	StemRegenin 1	probe
+304	FQI-2	probe
+305	ML210	probe
+306	darinaparsin	clinical
+307	PX-12	clinical
+308	GANT-61	probe
+309	PL-DI	probe
+310	TW-37	probe
+311	AZD8055	clinical
+312	CHM-1	probe
+313	QS-11	probe
+314	ML239	probe
+315	salermide	probe
+316	fumonisin B1	probe
+317	JQ-1	probe
+318	BRD-K51490254	probe
+319	BRD-K85133207	probe
+320	BMS-345541	probe
+321	CAY10576	probe
+322	Repligen 136	probe
+323	nintedanib	clinical
+324	crizotinib	FDA
+325	foretinib	clinical
+326	regorafenib	FDA
+327	WZ8040	probe
+328	OSI-930	clinical
+329	MGCD-265	clinical
+330	lenvatinib	FDA
+331	YK 4-279	probe
+332	CAY10618	probe
+333	KU 0060648	probe
+334	narciclasine	probe
+335	MLN2238	clinical
+336	ISOX	probe
+337	lapatinib	FDA
+338	BRD-K29313308	probe
+339	UNC0321	probe
+340	SGX-523	clinical
+341	erismodegib	probe
+342	alisertib	clinical
+343	AZD6482	clinical
+344	ruxolitinib	FDA
+345	bleomycin A2	FDA
+346	GDC-0941	clinical
+347	SB-525334	probe
+348	PHA-793887	clinical
+349	quizartinib	clinical
+350	fingolimod	FDA
+351	pazopanib	FDA
+352	WZ4002	probe
+353	BRD-K24690302	probe
+354	BRD-K70511574	probe
+355	PLX-4032	FDA
+356	BRD-K48477130	probe
+357	GSK461364	clinical
+358	YL54	probe
+359	BRD-K20514654	probe
+360	BRD-K55473186	probe
+361	BRD-K28456706	probe
+362	STF-31	probe
+363	ML334 diastereomer	probe
+364	spautin-1	probe
+365	VAF-347	probe
+366	BRD-A02303741	probe
+367	ML320	probe
+368	tigecycline	FDA
+369	BRD-K34099515	probe
+370	PF-543	probe
+371	PF-573228	probe
+372	ceranib-2	probe
+373	FSC231	probe
+374	968	probe
+375	GSK4112	probe
+376	etomoxir	clinical
+377	HC-067047	probe
+378	IPR-456	probe
+379	KH-CB19	probe
+380	leptomycin B	probe
+381	AZ-3146	probe
+382	VU0155056	probe
+383	JQ-1:UNC0638 (2:1 mol/mol)	probe
+384	carboplatin:UNC0638 (2:1 mol/mol)	probe
+385	vorinostat:carboplatin (1:1 mol/mol)	probe
+386	serdemetan:SCH-529074 (1:1 mol/mol)	probe
+387	selumetinib:PLX-4032 (8:1 mol/mol)	probe
+388	sirolimus:bortezomib (250:1 mol/mol)	probe
+389	BRD-K97651142	probe
+390	vorapaxar	clinical
+391	Ch-55	probe
+392	BRD-K79669418	probe
+393	BRD-K99584050	probe
+394	BRD-A71883111	probe
+395	navitoclax:birinapant (1:1 mol/mol)	probe
+396	ISOX:bortezomib (250:1 mol/mol)	probe
+397	selumetinib:GDC-0941 (4:1 mol/mol)	probe
+398	selumetinib:tretinoin (2:1 mol/mol)	probe
+399	selumetinib:vorinostat (8:1 mol/mol)	probe
+400	selumetinib:JQ-1 (4:1 mol/mol)	probe
+401	selumetinib:BRD-A02303741 (4:1 mol/mol)	probe
+402	tretinoin:navitoclax (4:1 mol/mol)	probe
+403	decitabine:navitoclax (2:1 mol/mol)	probe
+404	tretinoin:carboplatin (2:1 mol/mol)	probe
+405	necrostatin-7	probe
+406	PYR-41	probe
+407	I-BET151	probe
+408	lomeguatrib	clinical
+409	PF-184	probe
+410	tanespimycin:gemcitabine (1:1 mol/mol)	probe
+411	docetaxel:tanespimycin (2:1 mol/mol)	probe
+412	selumetinib:MK-2206 (8:1 mol/mol)	probe
+413	navitoclax:PLX-4032 (1:1 mol/mol)	probe
+414	selumetinib:piperlongumine (8:1 mol/mol)	probe
+415	tanespimycin:bortezomib (250:1 mol/mol)	probe
+416	navitoclax:MST-312 (1:1 mol/mol)	probe
+417	carboplatin:etoposide (40:17 mol/mol)	probe
+418	piperlongumine:MST-312 (1:1 mol/mol)	probe
+419	navitoclax:gemcitabine (1:1 mol/mol)	probe
+420	JW-480	probe
+421	BMS-195614	probe
+422	BRD-K07442505	probe
+423	BRD-K35604418	probe
+424	SB-743921	clinical
+425	GSK525762A	probe
+426	navitoclax:pluripotin (1:1 mol/mol)	probe
+427	JQ-1:carboplatin (1:1 mol/mol)	probe
+428	selumetinib:navitoclax (8:1 mol/mol)	probe
+429	selumetinib:decitabine (4:1 mol/mol)	probe
+430	decitabine:carboplatin (1:1 mol/mol)	probe
+431	SNX-2112:bortezomib (250:1 mol/mol)	probe
+432	JQ-1:navitoclax (2:1 mol/mol)	probe
+433	JQ-1:MK-0752 (1:1 mol/mol)	probe
+434	BRD-A02303741:navitoclax (2:1 mol/mol)	probe
+435	salermide:PLX-4032 (12:1 mol/mol)	probe
+436	UNC0638:navitoclax (1:1 mol/mol)	probe
+437	BRD-A02303741:carboplatin (1:1 mol/mol)	probe
+438	doxorubicin:navitoclax (2:1 mol/mol)	probe
+439	selumetinib:UNC0638 (4:1 mol/mol)	probe
+440	alisertib:navitoclax (2:1 mol/mol)	probe
+441	navitoclax:sorafenib (1:1 mol/mol)	probe
+442	navitoclax:piperlongumine (1:1 mol/mol)	probe
+443	SMER-3	probe
+444	NVP-ADW742	probe
+445	clofarabine	FDA
+446	vorinostat:navitoclax (4:1 mol/mol)	probe
+447	XL765	clinical
+448	AZD1480	clinical
+449	ML258	probe
+450	SR1001	probe
+451	bardoxolone methyl	clinical
+452	elocalcitol	clinical
+453	BMS-270394	probe
+454	fluvastatin	FDA
+455	AZD4547	clinical
+456	hyperforin	clinical
+457	NVP-231	probe
+458	MK-0752	clinical
+459	semagacestat	clinical
+460	BRD-A05715709	probe
+461	bosutinib	FDA
+462	temsirolimus	FDA
+463	abiraterone	FDA
+464	docetaxel	FDA
+465	nelarabine	FDA
+466	rigosertib	clinical
+467	AT7867	probe
+468	PD318088	probe
+469	KU-60019	probe
+470	BIRB-796	probe
+471	KW-2449	clinical
+472	RAF265	clinical
+473	silmitasertib	clinical
+474	BRD-K03911514	probe
+475	BRD-K16130065	probe
+476	momelotinib	clinical
+477	CAL-101	clinical
+478	LY-2157299	probe
+479	WP1130	probe
+480	OSI-027	clinical
+481	NVP-BSK805	probe
+482	erlotinib:PLX-4032 (2:1 mol/mol)	probe
+483	PIK-93	probe
+484	AZD7762	clinical
+485	birinapant	clinical
+486	KX2-391	clinical
+487	3-Cl-AHPC	probe
+488	BRD-K58730230	probe
+489	BRD-K27188169	probe
+490	KHS101	probe
+491	WAY-362450	probe
+492	JQ-1:vorinostat (2:1 mol/mol)	probe
+493	BRD-K13185470	probe
+494	cabozantinib	FDA
+495	crizotinib:PLX-4032 (2:1 mol/mol)	probe
+496	BRD-M00053801	probe
+497	KPT185	probe
+498	pitstop2	probe
+499	R428	probe
+500	ibrutinib	clinical
+501	sotrastaurin	clinical
+502	A-804598	probe
+503	BRD-K27188169:navitoclax (2:1 mol/mol)	probe
+504	COL-3	clinical
+505	ABT-199	clinical
+506	ETP-46464	probe
+507	marinopyrrole A	probe
+508	methylstat	probe
+509	BYL-719	clinical
+510	GSK2636771	clinical
+511	SR8278	probe
+512	JW-74	probe
+513	necrosulfonamide	probe
+514	HBX-41108	probe
+515	palmostatin B	probe
+516	JW-55	probe
+517	BRD-K03536150	probe
+518	BRD-K99006945	probe
+519	tivantinib	clinical
+520	trametinib	clinical
+521	RO4929097	clinical
+522	dinaciclib	clinical
+523	MLN2480	clinical
+524	BRD-K51831558	probe
+525	istradefylline	clinical
+526	MI-2	probe
+527	BRD-K42260513	probe
+528	alvocidib	clinical
+529	CBB-1007	probe
+530	GSK-J4	probe
+531	BRD-A86708339	probe
+532	PF-3758309	probe
+533	dabrafenib	clinical
+534	SZ4TA2	probe
+535	AT13387	clinical
+536	BCL-LZH-4	probe
+537	skepinone-L	probe
+538	BRD-K34222889	probe
+539	PF-4800567 hydrochloride	probe
+540	avicin D	probe
+541	BRD9876:MK-1775 (4:1 mol/mol)	probe
+542	BRD-K30748066	probe
+543	linsitinib	clinical
+544	AT-406	probe
