@@ -593,6 +593,3 @@ def cold_start_train_test_split(context_dict, eval_percentage=0.1, test_percenta
     assert context_dict_train.keys() & context_dict_test.keys() == set([])
     
     return context_dict_train, context_dict_eval, context_dict_test
-
-a, b = create_cell_line_drug_dicts()
-print(b)
