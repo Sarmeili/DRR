@@ -178,6 +178,7 @@ def embedding_layer(inputs, vocab_size, embed_size, name=None):
         This will be a `tf.Tensor` with shape:
         `[batch_size, sequence_length, embed_size]`.
     """
+    
     with tf.compat.v1.variable_scope(
         name, default_name='embedding_layer', values=[inputs]
     ):

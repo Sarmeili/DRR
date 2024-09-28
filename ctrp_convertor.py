@@ -63,6 +63,7 @@ def ctrp_to_gdsc_format():
         token_id['[n+]'] = 43
         token_id['[S@@]'] = 44
         token_id['[N@@]'] =45
+        token_id['z'] = 46
 
         token_id_df = pd.DataFrame({'token' : token_id.keys(),
                            'id' : token_id.values()}).set_index('token')
@@ -78,6 +79,7 @@ def ctrp_to_gdsc_format():
             if len(tokenized)>=max_len_tokens:
                 max_len_tokens = len(tokenized)
             smiles_tokenized_list.append(tokenized)
+        
         padded_tokenized = pad_sequences(smiles_tokenized_list, maxlen=max_len_tokens, padding='pre', value=0)
         
         return padded_tokenized, max_len_tokens

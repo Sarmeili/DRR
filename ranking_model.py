@@ -5,7 +5,6 @@ import tensorflow as tf
 from tensorflow_serving.apis import input_pb2
 import os
 import tensorflow_ranking as tfr
-
     
     
 def eval_metric_fns():

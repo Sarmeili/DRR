@@ -4,6 +4,7 @@
 # nn baseline scoring function
 import tensorflow as tf
 
+
 def nn_baseline_make_score_fn(context_feature_columns,
                               example_feature_columns,
                               cell_wise,
