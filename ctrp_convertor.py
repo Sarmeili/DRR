@@ -99,7 +99,7 @@ def ctrp_to_gdsc_format():
         cpd_df = cpd_df[['master_cpd_id', 'cpd_name', 'cpd_smiles', 'cpd_status']]
 
         drug_txt = cpd_df[['cpd_name', 'cpd_status']]
-        drug_txt.to_csv('data/ctrp_processed_data/drugs.txt', header=None, sep='\t')
+        drug_txt.set_index('cpd_name').to_csv('data/ctrp_processed_data/drugs.txt', header=None, sep='\t')
 
         response_df = response_df.merge(cpd_df, on='master_cpd_id', how='left')
         response_df = response_df.merge(experiment_df, on='experiment_id', how='left')
