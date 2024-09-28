@@ -122,6 +122,7 @@ def ndcg_from_file(pred_path,gt_test_path, gt_train_path = None, k=5, exponentia
         not_nan = np.where(~np.isnan(np.array(cur_gt)))[0]
         cur_gt = cur_gt[not_nan]
         cur_pred = cur_pred[not_nan]
+        cur_gt = np.abs(cur_gt)
         if len(cur_gt) > 1:
             ndcg.append(ndcg_score([cur_gt], [cur_pred], k=k))
     return ndcg

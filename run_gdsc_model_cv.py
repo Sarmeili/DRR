@@ -131,7 +131,7 @@ def main():
         
         
         csv_save_path = pred_dir + '/pred_test_' + filename + '_' + str(split_nr) + '.csv'
-        np_save_path = pred_dir + 'pred_test_' +  filename + '_' + str(split_nr) + '.npy'
+        np_save_path = pred_dir + '/pred_test_' +  filename + '_' + str(split_nr) + '.npy'
         
         if os.path.exists(csv_save_path) and not flag_redo:
             continue
@@ -173,6 +173,12 @@ def main():
                             data_dir = data_dir,
                             gene_feature = gene_feature,
                             cell_wise = cell_wise)
+        print('\n\n')
+        print('contexts_train', contexts_train)
+        print('num_gene_features', num_gene_features)
+        print(num_smiles_features)
+        print(vocab_size)
+        print('\n\n')
 
         contexts_test, _, _, _ = r_cv.create_context_dict(test_df,
                             data_dir = data_dir,
